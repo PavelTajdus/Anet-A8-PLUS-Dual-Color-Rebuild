@@ -1,3 +1,5 @@
+![PT Anet A8Plus Dual Color](https://github.com/PavelTajdus/Anet-A8-PLUS-Dual-Color-Rebuild/blob/master/Images/cela.jpg?raw=true)
+
 # Anet A8 PLUS Dual Color Rebuild
 
 Jako základ pro dvoubarevný tisk jsem zvolil Anet A8Plus, která vypadala jako solidní základ pro předělávku. Později se ukázalo, že to nebyla nejšťastnější volba, ale tiskárna už byla doma, takže jsem si s tím musel poradit.
