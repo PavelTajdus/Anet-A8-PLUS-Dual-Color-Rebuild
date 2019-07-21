@@ -9,3 +9,5 @@ Jako základ pro dvoubarevný tisk jsem zvolil Anet A8Plus, která vypadala jako
 Jako systém pro dvoubarevný tisk jsem zvolil systém dvou extruderů do jednoho hotendu (Y joiner). Jedná se o relativně jednoduché řešení, které podporuje i mnou používaný Prusa Slicer 2.0.
 
 Použil jsem klona V6 hotendu s bore 4.1 heatbreakem.
+
+Další popis doplním později :-)
