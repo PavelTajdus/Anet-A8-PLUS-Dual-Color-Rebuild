@@ -20,15 +20,41 @@ Kvůli použití dvou extruderů jsem musel měnit i desku. Zvolil jsem SKR v1.3
 
 Abych zajistil dostatečně kvalitní podávání filamentu, rozhodl jsem se pro Titan extruder (opět klony). Mám s nimi dobré zkušenosti - dobře se zavádí a vyndavá filament (oproti BMG). A je za super cenu.
 
-Protože jsem nebyl absolutně schopný vyrovnat podložku standardními levlovacími šrouby, rozhodl jsem se pro 3Dtouch. Měl jsem dva různé senzory, jeden od Trianglelab, druhý od Fysetc. Fysetc skončil v koši. Absolutně k ničemu. Trianglelab naštěsti funguje obstojně.
+Protože jsem nebyl absolutně schopný vyrovnat podložku standardními levlovacími šrouby, rozhodl jsem se pro 3Dtouch. Měl jsem dva různé senzory, jeden od Trianglelab, druhý od Fysetc. Fysetc skončil v koši. Absolutně k ničemu. Trianglelab naštěsti funguje obstojně. Podložku jsem přišrouboval napevno pomocí distančních sloupků.
 
 Další výměna mě čekala u displeje. Nebyl jsem schopný rozhýbat originální přibalený displej, tak jsem použil klasický velký 12864 LCD displej se čtečkou karet. Čtečka karet v displeji je mnohem příjemnější pro obsluhu než lovit malou mikro sd kartu za tiskárnou v desce.
 
-### Seznam dokoupených dílů
-- deska SKR V1.3
+## Seznam dokoupených dílů
+
+### Elektronika
+- Deska SKR V1.3
 - 5x TMC 2208
-- Titan Extruder
+- Motor extruderu
+- Dlouhé kabely k motorům
 - Trianglelab 3D Touch
-- přívodní kabely průměr 4mm ze zdroje k desce
-- kabely k motorům
 - 12864 LCD displej se čtečkou karet
+- Stepdowny na 12V
+- 5015 ventilátor Sunon 12V - ofuk výtisku
+- 4010 ventilátor Sunon 12V - hotend
+- 6015 ventilátor Sunon 12V - do zdroje
+- 50x50 tichý ventilátor Sillentium PC 12V - ofuk desky
+- Přívodní kabely průměr 4mm ze zdroje k desce
+- Konektory pro připojení endstopů a další kabeláže do desky (XH2.54 2 Pin)
+- Konektory pro spojení kabeláže hotendu
+
+### Hardware
+- Titan Extruder
+- V6 hotend 4.1 bore
+- Silikonový návlek na hotend
+- Trianglelab TL-Feeder ("joiner" - Y spojka)
+- PTFE (ačkoliv jsou dodané k joineru, dával jsem jiné)
+- Distanční sloupky k bedu
+- Pevné spojky závitové tyče a motoru 5x8mm
+- Ložisko LM8UU (vozík osy x)
+- Šrouby M4 různých délek
+- Stahovací pásky
+- Matky do profilů M4
+
+### Tištěné díly
+
+Viz seznam dílů [ve složce STL](https://github.com/PavelTajdus/Anet-A8-PLUS-Dual-Color-Rebuild/tree/master/STL).
