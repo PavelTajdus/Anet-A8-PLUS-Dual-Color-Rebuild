@@ -24,6 +24,12 @@ Protože jsem nebyl absolutně schopný vyrovnat podložku standardními levlova
 
 Další výměna mě čekala u displeje. Nebyl jsem schopný rozhýbat originální přibalený displej, tak jsem použil klasický velký 12864 LCD displej se čtečkou karet. Čtečka karet v displeji je mnohem příjemnější pro obsluhu než lovit malou mikro sd kartu za tiskárnou v desce.
 
+Měnil jsem i část kabeláže, protože například kabel od zdroje mi nedosáhl k desce, aniž by visel pod bedem. Kabeláž k hotendu jsem doplnil o konektory, aby se hotend dal kompletně sundat bez nutnosti odpojování kabeláže z desky. Veškerou kabeláž jsem pak omotal omotávkou dodávanou k tiskárně a kabely přichytil do profilů spojkami.
+
+### Motory vzhůru!
+
+Umístit motory nahoře bylo řešením několika problémů. Závitové tyče nebyly naprosto rovné. Jedna ano, druhá ne. Při otáčení závitovkou tyč ovlivňovala osu X, což ovlivní kvalitu tisku. Další problém byl, že došlo ke snížení bedu o nějaký ten centimetr a díky změně hotendu a extruderu už nebylo možné dostat se tryskou na tiskovou podložku. Umístěním motorů nahoru všechny tyhle neduhy vyřešilo. A nepřišlo se ani o milimetr z tiskové výšky stroje. Naopak by se dalo ještě pár cm přidat, ale na úkor snížení pevnosti držáků motoru. Což mi přišlo zbytečné.
+
 ## Seznam dokoupených dílů
 
 ### Elektronika
